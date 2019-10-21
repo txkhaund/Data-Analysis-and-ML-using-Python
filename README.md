@@ -1,4 +1,4 @@
-# Data-Analysis-and-ML-using-Python
+# Data Analysis and ML using Python
 
 Data Analysis and Machine Learning on the Ultimate European Soccer Dataset <a href="https://www.kaggle.com/hugomathien/soccer">Data Source</a>
 
